@@ -1,12 +1,14 @@
 # Este repositório contém: 
 
 
-1. 1 sistema em Pyhton que permite **converter moedas de 267 países** através de web scraping que realiza no site do Iban, utilizando as bibliotecas Requests, Beautiful Soup e Babel. :brazil: :us: :uk: :canada: :fr: :georgia: :de: :uzbekistan: :vietnam: :singapore: :australia: :austria: :ireland: :israel: :ethiopia: :south_africa: :earth_africa: :euro:
+
+1. 1 sistema em Pyhton que permite **converter moedas de 267 países** através de web scraping que realiza no site do Iban, utilizando as bibliotecas Requests, Beautiful Soup e Babel. ​ :brazil: :us: :uk: :canada: :fr: :georgia: :de: :uzbekistan: :vietnam: :singapore: :australia: :austria: :ireland: :israel: :ethiopia: :south_africa: :earth_africa: :euro:
 
 
 
 
-#  Este repositório tem a finalidade de:
+#  Este repositório tem como finalidade:
+
 
 
 1. Servir como meu material de apoio para relembrar conceitos, sintaxes, bibliotecas e funções úteis na linguagem, através de exemplos práticos, com códigos organizados e conteúdo visualmente fácil de encontrar.
@@ -15,7 +17,7 @@
 
 
 
-# Bibliotecas utilizadas:
+# Neste repositório foram usadas as bibliotecas:
 
 
 
@@ -56,7 +58,7 @@ Após a instalação de todas as bibliotecas necessárias, vamos a execução:
 
 
 
-## **Como foram organizados os conteúdos** e por que:
+## **Como foram organizados os conteúdos**:
 
 O sistema é composto por 2 arquivos:
 
